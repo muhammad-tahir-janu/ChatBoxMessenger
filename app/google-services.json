@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946574922276",
+    "project_id": "chatbox-messenger-e1c01",
+    "storage_bucket": "chatbox-messenger-e1c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946574922276:android:935a03e39f6ce1fa7bbeb1",
+        "android_client_info": {
+          "package_name": "com.tahir70108.chatboxmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946574922276-8u7av96br3stfsqoi5pmqae7arnj1ai2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3MDxgMBQQHqwDtsP5fPSwtB8i0jN4VaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946574922276-8u7av96br3stfsqoi5pmqae7arnj1ai2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
